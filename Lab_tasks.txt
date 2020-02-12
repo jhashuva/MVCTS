@@ -1,0 +1,17 @@
+1. Create an empty dictionary and store information  like name, roll number, dob, email, blood_group, gender, book,movie,series,game etc.
+
+2. Make the dictionary as a json object and store it into the file.(serialization)
+
+3. Read the file which created in previous task using json object method(load)
+
+4. save the dictionary which is created in task 1 as a csv file using csv object methods
+
+5. Append 3 to 4 dictionaries which are like dictionary created in task-1 and append to the csv file.
+
+6. read the csv file which is created in task-4 and 5
+
+7. Parse the html tags using html object methods and use all methods mentioned in class.
+
+8. Create a simple xml using python(dictionary used in task-1 and 5) and save to the file 
+
+9. Parse the XML file using XML object methods.
