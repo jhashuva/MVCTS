@@ -1,0 +1,14 @@
+1.create a file using python file object methods
+
+2. Store your personnel info in file using python file object methods
+
+3. Print your personnel details which are stored in a file by using python file object methods i.e. read() readLine() readLines()
+
+4. Open any image file using python file object methods in binary mode.
+
+5. Try to change the image file data using python file object methods in binary mode.
+
+You must use exception handling technique for above tasks
+
+
+6. Try to read, write and append data to your personnel information using 'with' key word. 

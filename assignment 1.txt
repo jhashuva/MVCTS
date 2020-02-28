@@ -1,0 +1,9 @@
+MVC Through Scripting
+Assignment 1
+Date:16-01-2020
+DOE:23-01-2020
+DOS: on or before the exam
+
+1. write about PHP arrays and PHP string functions as well as string interpolation
+2. Write Python iterable data types (strings, lists, tuples, sets, dictionaries) and their methods.
+3. Write about exception handling in python(try, except, finally) in detail
