@@ -1,0 +1,60 @@
+$$list methods
+$$dictionary methods
+$$sets methods
+$$tuple methods
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+$$try-except-finally
+try:
+    f=open('file.txt','w')
+    print("Welcome to OOps",file=f)
+    f.write("second line")
+    print(f.read())
+    f.close()
+except:
+    print("It is an error ")
+finally:
+    print("This is finally block")
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+$$list comprehensions
+
+n=int(input("Enter the range value"))
+odd_list = [number for number in range(1,n) if number % 2==1]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+$$write to csv file
+
+import csv
+
+with open('names.csv', 'w', newline='') as csvfile:
+    fieldnames = ['first_name', 'last_name']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    writer.writeheader()
+    writer.writerow({'first_name': 'Baked', 'last_name': 'Beans'})
+    writer.writerow({'first_name': 'Lovely', 'last_name': 'Spam'})
+    writer.writerow({'first_name': 'Wonderful', 'last_name': 'Spam'})
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+import csv
+with open('names.csv', newline='') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        print(row['first_name'], row['last_name'])
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+$$Word-count
+
+from collections import defaultdict
+f=open('wof.txt','r')
+f2=open('wof_s.txt','a')
+a=defaultdict(int)
+for line in f:
+	b=line.split()
+	for i in b:
+		a[i]+=1
+
+for key,value in a.items():
+		f2.write('{}-{}\n'.format(key,value))
+
+f.close()
+f2.close()
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
