@@ -1,0 +1,23 @@
+//Inheritance:
+class A:
+    def __init__(self,a):
+        self.a=a
+    def display(self):
+        print("class A:",self.a)
+class B(A):
+    def __init__(self,a,b):
+        super().__init__(a)
+        self.b=b
+    def display(self):
+        super().display()
+        print("Class B:",self.b)
+obj1=A(10)
+obj2=B(100,200)
+obj1.display()
+obj2.display()
+
+
+
+	
+	
+	

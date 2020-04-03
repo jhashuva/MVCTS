@@ -1,0 +1,8 @@
+//writing into file
+
+f=open("abc.txt",'w')
+word=" I am xyz and i am a foodie  "
+text=" My favorite food is veggies  "
+f.write(word)
+f.write(text)
+

@@ -1,0 +1,9 @@
+//guess number
+import random
+print("guess number")
+n = int(input())
+x = random.randrange(10)
+if n == x
+    print("correct ans,generated number is:"+str(x))
+else
+    print("wrong ans,generated number is:"+str(x))

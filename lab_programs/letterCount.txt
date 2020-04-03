@@ -1,0 +1,4 @@
+vowels='aeiou'
+words='letters'
+letter_count = {letter:words.count(letter) for letter in set(words) if letter in vowels}
+print(letter_count)

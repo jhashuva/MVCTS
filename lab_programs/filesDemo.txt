@@ -1,0 +1,8 @@
+//files
+poem='''twikle twinkle little star
+        how i wonder what u are.'''
+
+print('length of the poem : ',len(poem))
+file = open('test.txt','wt')
+print(poem,file=file)
+file.close()

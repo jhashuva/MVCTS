@@ -32,15 +32,41 @@ Multipule Inheritance:
               Ex:   
                      
                     Vehicle
+			^
 			|
 			|
 			Car
+			^
 			|
 			|
-	Electrical 	Disel Petrol  Gas
+       Electrical	Disel	Petrol	Gas
+			^
+			|
+			|
+		     hyundai(Electrical, Disel)
 
 
-			hyundai kona
+    Hybrid inheritance
 
 
-                
+
+A            B            C
+
+
+
+              D       
+
+
+
+
+	A
+  /       \
+/          \
+B           D
+  
+\          /
+  \      /
+     C
+
+emp1=('deeasha','k','400')
+>>> emp2=('divya','r','300')

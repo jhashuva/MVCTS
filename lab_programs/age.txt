@@ -1,0 +1,6 @@
+//age
+print("enter DOB")
+dob = input()
+list = dob.split("-")
+h = 2020-inf(list[2])
+print(n)

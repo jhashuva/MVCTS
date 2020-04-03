@@ -1,0 +1,57 @@
+Date: 19-03-2020
+Date of submission: 05-04-2020
+
+Note: Do not ask about answers to the questions or Do not ask about doubts on these questions since I explained in the class room and provided appropriate information to the topics.
+
+Assignment:
+
+1. Write about open built-in functions
+                or
+2. Explain about to access command-line arguments in python script 
+
+
+3. What is Inhertiance in OOP
+                or
+4. Write about polymorphism
+
+5. Write about web-frame work
+              or
+6. Expand MVC and MVT
+
+7. Explain about JSX
+              or
+
+9. What is Virtual DOM?
+	      or
+10. Define Virtual DOM?
+
+
+11. Write about reading and writing file using python with example
+		or
+12. what are the different methods available for reading and writing of file object
+		or
+13. What is CSV and HTML formats and how to read and write those(HTML,CSV) formats using python
+                 or
+14. Write about structured text files with appropriate examples.
+
+
+15. Create a simple class and object for that class and call the methods and variables of the class using object in python
+                 or
+16. Create a class called Employee with appropriate data and method attributes. Use properties wherever applicable.
+                 or
+17. Write about django framework and its architecture
+		or
+18. Write about MVT architecture . Explain basic steps to create a django project.
+
+
+
+19. Write in detail about life cycle of React component with suitable examples
+		or
+20. Give the details about react component life cycle in detail
+		or 
+21. Introduction to ReactJS and the motivation for using React.
+		or
+22. Explain about the React components and render function with examples.
+
+
+			@@@ALL THE BEST@@@

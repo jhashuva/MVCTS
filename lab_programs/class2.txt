@@ -1,0 +1,11 @@
+//class
+class area:
+    def __init__(self,l,b):
+        self.length=l
+        self.breadth=b
+    def rectarea(self):
+        return self.length*self.breadth
+class main:
+    rect1=area(10,20)
+    print("area of first rectangle:")
+    print(rect1.rectarea())

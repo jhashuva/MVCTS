@@ -1,0 +1,16 @@
+poem = '''x is y
+y is z
+so x is z.'''
+f = open('test1.txt','wt')
+size = len(poem)
+offset = 0
+chunk = 3
+ 
+while True:
+    if offset > size:
+        break
+    f.write(poem[offset:offset+chunk])
+    offset+=chunk
+   
+f.close()
+
