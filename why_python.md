@@ -1,3 +1,7 @@
+---
+layout: page
+title: Why Python
+---
 <img src="https://github.com/jhashuva/MVCTS/blob/master/img/why%20python0.png" width=200px />
 
 U\. Joshua\,
