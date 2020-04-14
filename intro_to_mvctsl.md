@@ -1,10 +1,10 @@
 __MVC Through SCRIPTING LANGUAGES__
 
-Mr\. U\. Joshua\,
+Mr\. U\. Joshua,
 
 _Asst\. Prof\._
 
-Department of CSE\,
+Department of CSE,
 
 Email: jhashuva@cvr\.ac\.in
 
