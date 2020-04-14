@@ -1,4 +1,4 @@
-<img src="img/why%20python0.png" width=200px />
+<img src="./img/why%20python0.png" width=200px />
 
 U\. Joshua\,
 
