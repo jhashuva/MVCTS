@@ -9,4 +9,4 @@ include:
   - why_python.md
   - intro_to_python.md
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
