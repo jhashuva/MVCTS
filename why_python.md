@@ -10,55 +10,54 @@ jhashuva@cvr\.ac\.in
 
 ![](./img/why_python1.png)
 
-Ref:[](https://www\.tiobe\.com/tiobe\-index/)
+Ref:[Source: TIOBE](https://www\.tiobe\.com/tiobe\-index/)
 
-<img src="./img/why python2.png" width=500px />
+![](./img/why_python2.png)
 
-Ref: https://www\.tiobe\.com/tiobe\-index/
+Ref:[Source: TIOBE](https://www\.tiobe\.com/tiobe\-index/)
 
-<img src="img/why python3.png" width=500px />
+![](./img/why_python3.png)
 
-<img src="img/why python4.png" width=500px />
+![](./img/why_python4.png)
 
-<img src="img/why python5.png" width=500px />
+![](./img/why_python5.png)
 
-<img src="img/why python6.png" width=500px />
+![](./img/why_python6.png)
 
-Ref: https://insights\.stackoverflow\.com/survey/2017
+Ref:[Stackoverflow survey 2017] (https://insights\.stackoverflow\.com/survey/2017)
 
-<img src="img/why python7.png" width=500px />
+![](./img/why_python7.png)
 
-https://insights\.stackoverflow\.com/survey/2018\#technology
+Ref:[Stackoverflow survey 2018](https://insights\.stackoverflow\.com/survey/2018\#technology)
+![](./img/why_python8.png)
 
-<img src="img/why python8.png" width=500px />
+Ref:[Stackoverflow survey 2018](https://insights\.stackoverflow\.com/survey/2018\#technology)
 
-https://insights\.stackoverflow\.com/survey/2018\#technology
+![](./img/why_python9.png)
 
-<img src="img/why python9.png" width=500px />
+Ref:[Stackoverflow survey 2018](https://insights\.stackoverflow\.com/survey/2018\#technology)
 
-https://insights\.stackoverflow\.com/survey/2018\#technology
+![](./img/why_python10.png)
 
-<img src="img/why python10.png" width=500px />
+Ref:[Stackoverflow survey 2018](https://insights\.stackoverflow\.com/survey/2018\#technology)
 
-https://insights\.stackoverflow\.com/survey/2018\#technology
-
-<img src="img/why python11.png" width=500px />
-
-https://insights\.stackoverflow\.com/survey/2019
-
-<img src="img/why python12.png" width=500px />
+![](./img/why_python11.png)
 
 https://insights\.stackoverflow\.com/survey/2019
 
-<img src="img/why python13.png" width=500px />
+![](./img/why_python12.png)
 
-https://insights\.stackoverflow\.com/survey/2019
+Ref:[Stackoverflow survey 2019](https://insights\.stackoverflow\.com/survey/2019)
 
-<img src="img/why python14.png" width=500px />
+![](./img/why_python13.png)
 
-https://insights\.stackoverflow\.com/survey/2019
+Ref:[Stackoverflow survey 2019](https://insights\.stackoverflow\.com/survey/2019)
 
-<img src="img/why python15.png" width=500px />
+![](./img/why_python14.png)
 
-https://insights\.stackoverflow\.com/survey/2019
+Ref:[Stackoverflow survey 2019](https://insights\.stackoverflow\.com/survey/2019)
+
+![](./img/why_python15.png)
+
+Ref:[Stackoverflow survey 2019](https://insights\.stackoverflow\.com/survey/2019)
 
