@@ -4,7 +4,7 @@
 
 # Python Data are Objects
 
-* In Python \, an object is a chunk of data that contains at least the following:
+* In Python , an object is a chunk of data that contains at least the following:
   * A _type_ that defines what it can do
   * A unique _id_ to distinguish it from other objects
   * A _value_ consistent with its type
@@ -12,9 +12,9 @@
 
 ![](./img/Introduction_to_Python0.png)
 
-Python is _Strongly typed_ language\, means type of the object does not change\.
+Python is _Strongly typed_ language, means type of the object does not change\.
 
-Reference: Introducing python 2ndEdition by BillLubanovic\,O’reilly
+Reference: Introducing python 2ndEdition by BillLubanovic,O’reilly
 
 # Python Data types
 
@@ -36,7 +36,7 @@ Binary types
 
 # Numbers
 
-Numbers are divided into int\, float and complex numbers\.
+Numbers are divided into int, float and complex numbers\.
 
 Numbers: integers
 
@@ -52,11 +52,11 @@ Operator Precedence: Numbers perspective
 
 Python 2\.x:
 
-Int could be limited to 32 or 64 bits\, depending on your CPU\.
+Int could be limited to 32 or 64 bits, depending on your CPU\.
 
-32 bit:  –2\,147\,483\,648 to 2\,147\,483\,647
+32 bit:  –2,147,483,648 to 2,147,483,647
 
-long	64 bit: –9\,223\,372\,036\,854\,775\,808 to 9\,223\,372\,036\,854\,775\,807
+long	64 bit: –9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
 
 Python 3\.x:
 
@@ -64,7 +64,7 @@ Int can be any size >64 bits
 
 ![](./img/Introduction_to_Python4.jpg" width=273px./img/>
 
-In Python\, you can express literal integers in three bases besides decimal with these integer prefixes:
+In Python, you can express literal integers in three bases besides decimal with these integer prefixes:
 
 0b or 0B for binary \(base 2\)
 
@@ -80,7 +80,7 @@ oct\(value\)
 
 hex\(value\)
 
-Integers are whole numbers\, but floating point numbers have decimal points\.
+Integers are whole numbers, but floating point numbers have decimal points\.
 
 Floats can include a decimal integer exponent after the letter e\.
 
@@ -116,7 +116,7 @@ Floats can include a decimal integer exponent after the letter e\.
 
 _Complex Numbers:_
 
-In python\, you can put ‘j’ or ‘J’ after a number to make it imaginary\, so you can write complex literals easily:
+In python, you can put ‘j’ or ‘J’ after a number to make it imaginary, so you can write complex literals easily:
 
 '''>>> z=x\*y
 
@@ -142,13 +142,13 @@ In python\, you can put ‘j’ or ‘J’ after a number to make it imaginary\,
 
 1\.0
 
->>> x=complex\(1\,2\)
+>>> x=complex\(1,2\)
 
 >>> print x
 
 \(1\+2j\)
 
->>> y=complex\(3\,4\)
+>>> y=complex\(3,4\)
 
 >>> print y
 
@@ -192,7 +192,7 @@ In python\, you can put ‘j’ or ‘J’ after a number to make it imaginary\,
 
 'Crackle''''
 
-The main purpose is to create strings containing quote characters\. You can have single quotes inside double\-quoted strings\, or double quotes inside single\-quoted strings\.
+The main purpose is to create strings containing quote characters\. You can have single quotes inside double\-quoted strings, or double quotes inside single\-quoted strings\.
 
 '''>>> "'Nay\!' said the naysayer\. 'Neigh?' said the horse\."
 
@@ -212,13 +212,13 @@ The main purpose is to create strings containing quote characters\. You can have
 
 You can also use three single quotes \('''\)or three double quotes \("""\): Their most common use is to create _multiline strings_
 
-'''>>> poem =  '''There was a Young Lady of Norway\,
+'''>>> poem =  '''There was a Young Lady of Norway,
 
 \.\.\. Who casually sat in a doorway;
 
-\.\.\. When the door squeezed her flat\,
+\.\.\. When the door squeezed her flat,
 
-\.\.\. She exclaimed\, "What of that?"
+\.\.\. She exclaimed, "What of that?"
 
 \.\.\. This courageous Young Lady of Norway\.'''
 
@@ -226,11 +226,11 @@ You can also use three single quotes \('''\)or three double quotes \("""\): Thei
 
 ![](./img/Introduction_to_Python8.jpg)
 
-By the way\, there’s a difference between the output of print\(\) and the automatic echoing done by the interactive interpreter:
+By the way, there’s a difference between the output of print\(\) and the automatic echoing done by the interactive interpreter:
 
-print\(\) strips quotes from strings and prints their contents\. It’s meant for human output\. It helpfully adds a space between each of the things it prints\, and a newline at the end:
+print\(\) strips quotes from strings and prints their contents\. It’s meant for human output\. It helpfully adds a space between each of the things it prints, and a newline at the end:
 
-'>>> print\('Give'\, "us"\, '''some'''\, """space"""\)'
+'>>> print\('Give', "us", '''some''', """space"""\)'
 
 Give us some space
 
@@ -270,17 +270,17 @@ You can make a string from another data type by using the str\(\) function:
 
 'True''''
 
-Python uses the str\(\) function internally when you call print\(\) with objects that are not strings and when doing string formatting\, which you’ll see later in this chapter\.
+Python uses the str\(\) function internally when you call print\(\) with objects that are not strings and when doing string formatting, which you’ll see later in this chapter\.
 
-Python lets you escape the meaning of some characters within strings to achieve effects that would otherwise be difficult to express\. By preceding a character with a backslash \(\\\)\,you give it a special meaning\.
+Python lets you escape the meaning of some characters within strings to achieve effects that would otherwise be difficult to express\. By preceding a character with a backslash \(\\\),you give it a special meaning\.
 
-'''>>> palindrome = 'A man\,\\nA plan\,\\nA canal:\\nPanama\.’
+'''>>> palindrome = 'A man,\\nA plan,\\nA canal:\\nPanama\.’
 
 >>> print\(palindrome\)
 
-A man\,
+A man,
 
-A plan\,
+A plan,
 
 A canal:
 
@@ -297,11 +297,11 @@ Panama\.'''
   * _Uppercase letters \(A through Z\)_
   * _Digits \(0 through 9\)_
   * _Underscore \(\_\)_
-* They are case\-sensitive: thing\, Thing\, and THING are different names\.
+* They are case\-sensitive: thing, Thing, and THING are different names\.
 
 ![](./img/Introduction_to_Python11.png)
 
-They must begin with a letter or an underscore\, not a digit\.
+They must begin with a letter or an underscore, not a digit\.
 
 Names that begin with an underscore are treated specially
 
@@ -313,9 +313,9 @@ False		await		else		import		pass                                                
 
 Text type:	str
 
-Numeric Types:int\,float\,complex
+Numeric Types:int,float,complex
 
-Sequence Types:	list\, tuple\, range
+Sequence Types:	list, tuple, range
 
 Mapping Types:dict
 
@@ -323,5 +323,5 @@ Set Types:		set
 
 Boolean Type:	bool
 
-Binary Types:	bytes\,bytearray\,memoryview
+Binary Types:	bytes,bytearray,memoryview
 
