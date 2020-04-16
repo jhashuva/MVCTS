@@ -1,2 +1,9 @@
-theme: jekyll-theme-cayman
-name: MVC Through Scripting
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - intro_to_mvctsl.md
+  - README.md
+  - why_python.md
