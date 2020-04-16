@@ -1,6 +1,6 @@
 # Introduction to Python
 
-#
+
 
 # Python Data are Objects
 
@@ -44,11 +44,11 @@ Literal Integers :
 
 Any sequence of digits in Python represents a _literal_ integer
 
-![](.roduction_to_Python2.jpg)
+![](./img/Introduction_to_Python2.jpg)
 
 Operator Precedence: Numbers perspective
 
-![](.roduction_to_Python3.jpg)
+![](./img/Introduction_to_Python3.jpg)
 
 Python 2\.x:
 
@@ -62,7 +62,7 @@ Python 3\.x:
 
 Int can be any size >64 bits
 
-![](.troduction_to_Python4.jpg" width=273px./img/>
+![](./img/Introduction_to_Python4.jpg" width=273px./img/>
 
 In Python\, you can express literal integers in three bases besides decimal with these integer prefixes:
 
@@ -176,13 +176,13 @@ In python\, you can put ‘j’ or ‘J’ after a number to make it imaginary\,
 
 \(\-1\+0j\)'''
 
-![](.roduction_to_Python5.jpg" width=323px)
+![](./img/Introduction_to_Python5.jpg" width=323px)
 
 <spanle="color:#FFFFFF"> _Boolean Datatypes :_ ./img/span>
 
-![](.roduction_to_Python6.png" width=500px)
+![](./img/Introduction_to_Python6.png" width=500px)
 
-![](.roduction_to_Python7.jpg" width=225px)
+![](./img/Introduction_to_Python7.jpg" width=225px)
 
 '''>>> 'Snap’
 
@@ -224,7 +224,7 @@ You can also use three single quotes \('''\)or three double quotes \("""\): Thei
 
 >>>'''
 
-![](.troduction_to_Python8.jpg)
+![](./img/Introduction_to_Python8.jpg)
 
 By the way\, there’s a difference between the output of print\(\) and the automatic echoing done by the interactive interpreter:
 
@@ -252,7 +252,7 @@ Give us some space
 
 >>>'''
 
-![](.troduction_to_Python9.jpg)
+![](./img/Introduction_to_Python9.jpg)
 
 _Create with str\(\)_
 
@@ -286,7 +286,7 @@ A canal:
 
 Panama\.'''
 
-![](.roduction_to_Python10.png)
+![](./img/Introduction_to_Python10.png)
 
 # Variables in Python
 
