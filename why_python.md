@@ -1,4 +1,4 @@
-<img src="./img/why_python0.png" width=200px />
+![](./img/why_python0.png)
 
 U\. Joshua\,
 
@@ -8,7 +8,7 @@ Dept\. of CSE\,
 
 jhashuva@cvr\.ac\.in
 
-<img src="./img/why_python1.png" width=500px />
+![](./img/why_python1.png)
 
 Ref:[](https://www\.tiobe\.com/tiobe\-index/)
 
