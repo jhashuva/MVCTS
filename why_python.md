@@ -1,14 +1,14 @@
 ![](./img/why_python0.png)
 
-U\. Joshua\,
+U\. Joshua,
 
-Asst\. Professor\,
+Asst\. Professor,
 
-Dept\. of CSE\,
+Dept\. of CSE,
 
 jhashuva@cvr\.ac\.in
 
-(./img/why_python1.png)
+![](./img/why_python1.png)
 
 Ref:[](https://www\.tiobe\.com/tiobe\-index/)
 
