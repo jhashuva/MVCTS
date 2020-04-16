@@ -10,7 +10,7 @@
   * A _value_ consistent with its type
   * A _reference count_ that tracks how often this object is used
 
-![](./Introduction_to_Python0.png)
+![](./img/Introduction_to_Python0.png)
 
 Python is _Strongly typed_ language\, means type of the object does not change\.
 
@@ -32,7 +32,7 @@ Set types
 
 Binary types
 
-![](./Introduction_to_Python1.jpg)
+![](.roduction_to_Python1.jpg)
 
 # Numbers
 
@@ -44,11 +44,11 @@ Literal Integers :
 
 Any sequence of digits in Python represents a _literal_ integer
 
-![](./Introduction_to_Python2.jpg)
+![](.roduction_to_Python2.jpg)
 
 Operator Precedence: Numbers perspective
 
-![](./Introduction_to_Python3.jpg)
+![](.roduction_to_Python3.jpg)
 
 Python 2\.x:
 
@@ -62,7 +62,7 @@ Python 3\.x:
 
 Int can be any size >64 bits
 
-![](.//Introduction_to_Python4.jpg" width=273px />
+![](.troduction_to_Python4.jpg" width=273px./img/>
 
 In Python\, you can express literal integers in three bases besides decimal with these integer prefixes:
 
@@ -124,7 +124,7 @@ In python\, you can put ‘j’ or ‘J’ after a number to make it imaginary\,
 
 \(\-5\+10j\)
 
->>> z=x/y
+>>> z
 
 >>> print z
 
@@ -176,13 +176,13 @@ In python\, you can put ‘j’ or ‘J’ after a number to make it imaginary\,
 
 \(\-1\+0j\)'''
 
-![](./Introduction_to_Python5.jpg" width=323px)
+![](.roduction_to_Python5.jpg" width=323px)
 
-<span style="color:#FFFFFF"> _Boolean Datatypes :_ </span>
+<spanle="color:#FFFFFF"> _Boolean Datatypes :_ ./img/span>
 
-![](./Introduction_to_Python6.png" width=500px)
+![](.roduction_to_Python6.png" width=500px)
 
-![](./Introduction_to_Python7.jpg" width=225px)
+![](.roduction_to_Python7.jpg" width=225px)
 
 '''>>> 'Snap’
 
@@ -224,7 +224,7 @@ You can also use three single quotes \('''\)or three double quotes \("""\): Thei
 
 >>>'''
 
-![](.//Introduction_to_Python8.jpg)
+![](.troduction_to_Python8.jpg)
 
 By the way\, there’s a difference between the output of print\(\) and the automatic echoing done by the interactive interpreter:
 
@@ -252,7 +252,7 @@ Give us some space
 
 >>>'''
 
-![](.//Introduction_to_Python9.jpg)
+![](.troduction_to_Python9.jpg)
 
 _Create with str\(\)_
 
@@ -286,11 +286,11 @@ A canal:
 
 Panama\.'''
 
-![](./Introduction_to_Python10.png)
+![](.roduction_to_Python10.png)
 
 # Variables in Python
 
-* _Variable_ —name for values in your computers memory that you want to use in a program\.
+* _Vale_ —name for values in your computers memory that you want to use in a program\.
 * Python variable names have some rules:
 * They can contain only these characters:
   * Lowercase letters \(a through z\)
@@ -299,7 +299,7 @@ Panama\.'''
   * _Underscore \(\_\)_
 * They are case\-sensitive: thing\, Thing\, and THING are different names\.
 
-![](./Introduction_to_Python11.png)
+![](./img/Introduction_to_Python11.png)
 
 They must begin with a letter or an underscore\, not a digit\.
 
