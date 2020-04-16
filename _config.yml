@@ -11,4 +11,4 @@ include:
   - why_python.md
   - intro_to_python.md
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
