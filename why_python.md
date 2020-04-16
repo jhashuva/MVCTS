@@ -1,4 +1,4 @@
-<img src="https://github.com/jhashuva/MVCTS/blob/master/img/why%20python0.png" width=200px />
+<img src="./img/why%20python0.png" width=200px />
 
 U\. Joshua\,
 
@@ -8,11 +8,11 @@ Dept\. of CSE\,
 
 jhashuva@cvr\.ac\.in
 
-<img src="img/why python1.png" width=500px />
+<img src="./img/why python1.png" width=500px />
 
 Ref:[https://www\.tiobe\.com/tiobe\-index/](https://www\.tiobe\.com/tiobe\-index/)
 
-<img src="img/why python2.png" width=500px />
+<img src="./img/why python2.png" width=500px />
 
 Ref: https://www\.tiobe\.com/tiobe\-index/
 
