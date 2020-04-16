@@ -84,7 +84,7 @@ Integers are whole numbers, but floating point numbers have decimal points\.
 
 Floats can include a decimal integer exponent after the letter e\.
 
-'''
+'''python
 >>> 5e0
 
 5\.0
