@@ -84,7 +84,7 @@ Integers are whole numbers, but floating point numbers have decimal points\.
 
 Floats can include a decimal integer exponent after the letter e\.
 
-'''python
+```python
 >>> 5e0
 
 5\.0
@@ -113,13 +113,14 @@ Floats can include a decimal integer exponent after the letter e\.
 
 >>>1\.0\_0\_1
 
-1\.001'''
+1\.001```
 
 _Complex Numbers:_
 
 In python, you can put ‘j’ or ‘J’ after a number to make it imaginary, so you can write complex literals easily:
 
-'''>>> z=x\*y
+```
+>>> z=x\*y
 
 >>> print z
 
@@ -175,7 +176,7 @@ In python, you can put ‘j’ or ‘J’ after a number to make it imaginary, s
 
 >>> 1j \* 1j
 
-\(\-1\+0j\)'''
+\(\-1\+0j\)```
 
 ![](./img/Introduction_to_Python5.jpg" width=323px)
 
@@ -185,7 +186,8 @@ In python, you can put ‘j’ or ‘J’ after a number to make it imaginary, s
 
 ![](./img/Introduction_to_Python7.jpg" width=225px)
 
-'''>>> 'Snap’
+```
+>>> 'Snap’
 
 'Snap’
 
@@ -195,7 +197,8 @@ In python, you can put ‘j’ or ‘J’ after a number to make it imaginary, s
 
 The main purpose is to create strings containing quote characters\. You can have single quotes inside double\-quoted strings, or double quotes inside single\-quoted strings\.
 
-'''>>> "'Nay\!' said the naysayer\. 'Neigh?' said the horse\."
+```
+>>> "'Nay\!' said the naysayer\. 'Neigh?' said the horse\."
 
 "'Nay\!' said the naysayer\. 'Neigh?' said the horse\."
 
@@ -209,11 +212,13 @@ The main purpose is to create strings containing quote characters\. You can have
 
 >>> "'There's the man that shot my paw\!' cried the limping hound\."
 
-"'There's the man that shot my paw\!' cried the limping hound\."'''
+"'There's the man that shot my paw\!' cried the limping hound\."```
+
 
 You can also use three single quotes \('''\)or three double quotes \("""\): Their most common use is to create _multiline strings_
 
-'''>>> poem =  '''There was a Young Lady of Norway,
+```
+>>> poem =  '''There was a Young Lady of Norway,
 
 \.\.\. Who casually sat in a doorway;
 
@@ -223,7 +228,7 @@ You can also use three single quotes \('''\)or three double quotes \("""\): Thei
 
 \.\.\. This courageous Young Lady of Norway\.'''
 
->>>'''
+```
 
 ![](./img/Introduction_to_Python8.jpg)
 
@@ -231,11 +236,12 @@ By the way, there’s a difference between the output of print\(\) and the autom
 
 print\(\) strips quotes from strings and prints their contents\. It’s meant for human output\. It helpfully adds a space between each of the things it prints, and a newline at the end:
 
-'>>> print\('Give', "us", '''some''', """space"""\)'
+`>>> print\('Give', "us", '''some''', """space"""\)`
 
 Give us some space
 
-'''>>> ‘’
+```
+>>> ‘’
 
 ‘’
 
@@ -251,7 +257,7 @@ Give us some space
 
 ‘’
 
->>>'''
+>>>```
 
 ![](./img/Introduction_to_Python9.jpg)
 
@@ -259,7 +265,8 @@ _Create with str\(\)_
 
 You can make a string from another data type by using the str\(\) function:
 
-'''>>> str\(98\.6\)
+```
+>>> str\(98\.6\)
 
 '98\.6'
 
@@ -269,13 +276,14 @@ You can make a string from another data type by using the str\(\) function:
 
 >>> str\(True\)
 
-'True''''
+'True```
 
 Python uses the str\(\) function internally when you call print\(\) with objects that are not strings and when doing string formatting, which you’ll see later in this chapter\.
 
 Python lets you escape the meaning of some characters within strings to achieve effects that would otherwise be difficult to express\. By preceding a character with a backslash \(\\\),you give it a special meaning\.
 
-'''>>> palindrome = 'A man,\\nA plan,\\nA canal:\\nPanama\.’
+```
+>>> palindrome = 'A man,\\nA plan,\\nA canal:\\nPanama\.’
 
 >>> print\(palindrome\)
 
@@ -285,7 +293,7 @@ A plan,
 
 A canal:
 
-Panama\.'''
+Panama\.```
 
 ![](./img/Introduction_to_Python10.png)
 
