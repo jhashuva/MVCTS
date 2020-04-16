@@ -62,7 +62,7 @@ Python 3\.x:
 
 Int can be any size >64 bits
 
-![](./img/Introduction_to_Python4.jpg" width=273px./img/>
+![](./img/Introduction_to_Python4.jpg>
 
 In Python, you can express literal integers in three bases besides decimal with these integer prefixes:
 
@@ -84,7 +84,8 @@ Integers are whole numbers, but floating point numbers have decimal points\.
 
 Floats can include a decimal integer exponent after the letter e\.
 
-'''>>> 5e0
+'''
+>>> 5e0
 
 5\.0
 
