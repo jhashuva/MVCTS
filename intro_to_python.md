@@ -32,7 +32,7 @@ Set types
 
 Binary types
 
-![](.roduction_to_Python1.jpg)
+![](./img/Introduction_to_Python1.jpg)
 
 # Numbers
 
