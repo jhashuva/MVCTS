@@ -11,9 +11,9 @@ Department of CSE,
 
 Email: jhashuva@cvr\.ac\.in
 
-| Instructions  | Sessional Marks   | End Exam   | Credits    |
-|:--------------|:------------------|:-----------|:-----------|
-| 3 Periods/week|      30           |    70      |     3      |
+| Instructions   | Sessional Marks   | End Exam   | Credits    |
+|:---------------|:------------------|:-----------|:-----------|
+| 3 Periods/week |      30           |    70      |     3      |
 
 
 ### Course Objectives
