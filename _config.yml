@@ -1,3 +1,5 @@
+title: [MVC Through Scripting Languages]
+description: [Welcome to the class]
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -9,4 +11,4 @@ include:
   - why_python.md
   - intro_to_python.md
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-dinky
