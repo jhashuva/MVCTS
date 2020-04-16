@@ -8,7 +8,7 @@ Dept\. of CSE\,
 
 jhashuva@cvr\.ac\.in
 
-![](./img/why_python1.png)
+(./img/why_python1.png)
 
 Ref:[](https://www\.tiobe\.com/tiobe\-index/)
 
