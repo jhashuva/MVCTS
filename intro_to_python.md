@@ -119,7 +119,7 @@ _Complex Numbers:_
 
 In python, you can put ‘j’ or ‘J’ after a number to make it imaginary, so you can write complex literals easily:
 
-```
+```python
 >>> z=x\*y
 
 >>> print z
@@ -186,18 +186,18 @@ In python, you can put ‘j’ or ‘J’ after a number to make it imaginary, s
 
 ![](./img/Introduction_to_Python7.jpg" width=225px)
 
-```
+```python
 >>> 'Snap’
 
 'Snap’
 
 >>> "Crackle“
 
-'Crackle''''
+'Crackle'```
 
 The main purpose is to create strings containing quote characters\. You can have single quotes inside double\-quoted strings, or double quotes inside single\-quoted strings\.
 
-```
+```python
 >>> "'Nay\!' said the naysayer\. 'Neigh?' said the horse\."
 
 "'Nay\!' said the naysayer\. 'Neigh?' said the horse\."
@@ -217,7 +217,7 @@ The main purpose is to create strings containing quote characters\. You can have
 
 You can also use three single quotes \('''\)or three double quotes \("""\): Their most common use is to create _multiline strings_
 
-```
+```python
 >>> poem =  '''There was a Young Lady of Norway,
 
 \.\.\. Who casually sat in a doorway;
@@ -226,9 +226,7 @@ You can also use three single quotes \('''\)or three double quotes \("""\): Thei
 
 \.\.\. She exclaimed, "What of that?"
 
-\.\.\. This courageous Young Lady of Norway\.'''
-
-```
+\.\.\. This courageous Young Lady of Norway\.```
 
 ![](./img/Introduction_to_Python8.jpg)
 
@@ -240,7 +238,7 @@ print\(\) strips quotes from strings and prints their contents\. It’s meant fo
 
 Give us some space
 
-```
+```python
 >>> ‘’
 
 ‘’
@@ -257,7 +255,7 @@ Give us some space
 
 ‘’
 
->>>```
+```
 
 ![](./img/Introduction_to_Python9.jpg)
 
@@ -265,7 +263,7 @@ _Create with str\(\)_
 
 You can make a string from another data type by using the str\(\) function:
 
-```
+```python
 >>> str\(98\.6\)
 
 '98\.6'
@@ -276,13 +274,13 @@ You can make a string from another data type by using the str\(\) function:
 
 >>> str\(True\)
 
-'True```
+'True'```
 
 Python uses the str\(\) function internally when you call print\(\) with objects that are not strings and when doing string formatting, which you’ll see later in this chapter\.
 
 Python lets you escape the meaning of some characters within strings to achieve effects that would otherwise be difficult to express\. By preceding a character with a backslash \(\\\),you give it a special meaning\.
 
-```
+```python
 >>> palindrome = 'A man,\\nA plan,\\nA canal:\\nPanama\.’
 
 >>> print\(palindrome\)
